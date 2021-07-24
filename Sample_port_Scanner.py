@@ -1,5 +1,10 @@
+"""
+@Author : Add Your Name Here
+@Created On: Date On Which Projet is Created
+@Title: Port Scanner
+"""
+
 #!/bin/python3 #Generally used in kali. (#! is shebang.)
-#Made by Ritik Bansal
 # boiler plate of Sample Port Scanner
 #It isn't perfect. We can't get everything in very beginning. Its a bad port scanner.
 
